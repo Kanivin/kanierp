@@ -3,13 +3,13 @@
   "description": "Open Source ERP System powered by the Kanivin Framework",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frappe/kanierp.git"
+    "url": "git+https://github.com/Kanivin/kanierp.git"
   },
-  "homepage": "https://frappe.io/kanierp",
+  "homepage": "https://github.com/kanierp",
   "author": "Kanivin Pvt. Ltd.",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/frappe/kanierp/issues"
+    "url": "https://github.com/Kanivin/kanierp/issues"
   },
   "devDependencies": {},
   "dependencies": {
