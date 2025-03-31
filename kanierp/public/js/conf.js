@@ -17,7 +17,7 @@ $.extend(frappe.breadcrumbs.preferred, {
 });
 
 $.extend(frappe.breadcrumbs.module_map, {
-	"kanierp Integrations": "Integrations",
+	"Kanierp Integrations": "Integrations",
 	Geo: "Settings",
 	Portal: "Website",
 	Utilities: "Settings",
