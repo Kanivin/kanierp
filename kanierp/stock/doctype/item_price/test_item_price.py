@@ -43,7 +43,7 @@ class TestItemPrice(KanivinTestCase):
 		self.assertRaises(ItemPriceDuplicateItem, doc.save)
 
 	def test_addition_of_new_fields(self):
-		# Based on https://github.com/frappe/kanierp/issues/8456
+		# Based on https://github.com/Kanivin/kanierp/issues/8456
 		test_fields_existance = [
 			"supplier",
 			"customer",

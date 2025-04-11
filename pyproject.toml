@@ -71,5 +71,5 @@ docstring-code-format = true
 
 [project.urls]
 Homepage = "https://frappe.io/kanierp"
-Repository = "https://github.com/frappe/kanierp.git"
-"Bug Reports" = "https://github.com/frappe/kanierp/issues"
+Repository = "https://github.com/Kanivin/kanierp.git"
+"Bug Reports" = "https://github.com/Kanivin/kanierp/issues"

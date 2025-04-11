@@ -7,7 +7,7 @@
         <p>ERP made simple</p>
     </p>
 
-[![CI](https://github.com/frappe/kanierp/actions/workflows/server-tests.yml/badge.svg?branch=develop)](https://github.com/frappe/kanierp/actions/workflows/server-tests.yml)
+[![CI](https://github.com/Kanivin/kanierp/actions/workflows/server-tests.yml/badge.svg?branch=develop)](https://github.com/Kanivin/kanierp/actions/workflows/server-tests.yml)
 [![UI](https://github.com/kanierp/kanierp_ui_tests/actions/workflows/ui-tests.yml/badge.svg?branch=develop&event=schedule)](https://github.com/kanierp/kanierp_ui_tests/actions/workflows/ui-tests.yml)
 [![Open Source Helpers](https://www.codetriage.com/frappe/kanierp/badges/users.svg)](https://www.codetriage.com/frappe/kanierp)
 [![codecov](https://codecov.io/gh/frappe/kanierp/branch/develop/graph/badge.svg?token=0TwvyUg3I5)](https://codecov.io/gh/frappe/kanierp)
@@ -70,9 +70,9 @@ New passwords will be created for the kanierp "Administrator" user, the MariaDB 
 
 ## Contributing
 
-1. [Issue Guidelines](https://github.com/frappe/kanierp/wiki/Issue-Guidelines)
+1. [Issue Guidelines](https://github.com/Kanivin/kanierp/wiki/Issue-Guidelines)
 1. [Report Security Vulnerabilities](https://kanierp.com/security)
-1. [Pull Request Requirements](https://github.com/frappe/kanierp/wiki/Contribution-Guidelines)
+1. [Pull Request Requirements](https://github.com/Kanivin/kanierp/wiki/Contribution-Guidelines)
 1. [Translations](https://translate.kanierp.com)
 
 

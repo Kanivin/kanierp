@@ -9,8 +9,8 @@
  "hide_custom": 0,
  "icon": "integration",
  "idx": 0,
- "is_hidden": 0,
- "label": "Kanierp Integrations",
+ "is_hidden": 1,
+ "label": "Kanivin Integrations",
  "links": [
   {
    "hidden": 0,
@@ -225,8 +225,8 @@
  ],
  "modified": "2023-08-29 15:48:59.010704",
  "modified_by": "Administrator",
- "module": "Kanierp Integrations",
- "name": "Kanierp Integrations",
+ "module": "Kanivin Integrations",
+ "name": "Kanivin Integrations",
  "number_cards": [],
  "owner": "Administrator",
  "parent_page": "",
@@ -244,5 +244,5 @@
    "url": "https://frappecloud.com/marketplace"
   }
  ],
- "title": "Kanierp Integrations"
+ "title": "Kanivin Integrations"
 }

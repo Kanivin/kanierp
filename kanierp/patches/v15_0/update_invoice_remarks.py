@@ -12,7 +12,7 @@ def update_sales_invoice_remarks():
 	Update remarks in Sales Invoice.
 	Some sites may have very large volume of sales invoices.
 	In such cases, updating documents one by one won't be successful, especially during site migration step.
-	Refer to the bug report: https://github.com/frappe/kanierp/issues/43634
+	Refer to the bug report: https://github.com/Kanivin/kanierp/issues/43634
 	In this case, a bulk update must be done.
 
 	        Step 1: Update remarks in GL Entries
@@ -45,7 +45,7 @@ def update_purchase_invoice_remarks():
 	Update remarks in Purchase Invoice.
 	Some sites may have very large volume of purchase invoices.
 	In such cases, updating documents one by one wont be successful, especially during site migration step.
-	Refer to the bug report: https://github.com/frappe/kanierp/issues/43634
+	Refer to the bug report: https://github.com/Kanivin/kanierp/issues/43634
 	In this case, a bulk update must be done.
 
 	        Step 1: Update remarks in GL Entries

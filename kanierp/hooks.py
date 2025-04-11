@@ -6,7 +6,7 @@ app_icon = "fa fa-th"
 app_color = "#e74c3c"
 app_email = "hello@frappe.io"
 app_license = "GNU General Public License (v3)"
-source_link = "https://github.com/frappe/kanierp"
+source_link = "https://github.com/Kanivin/kanierp"
 app_logo_url = "/assets/kanierp/images/kanierp-logo.svg"
 
 
